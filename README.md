@@ -25,6 +25,7 @@ git 是一个很强大的分布式版本管理工具，它不但适用于管理�
 
 #### 本地仓库基本命令
 - `git init` 初始化仓库
+- `git status` 查看本地仓库状态
 - `touch .gitignore` 仓库忽略文件 写入不需要的文件夹名或文件，每个元素占一行即可，如 `/node_modules/`
 - `git add [filename][.]` 添加
 - `git commit -m "message"` 提交到本地仓库
