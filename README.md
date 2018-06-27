@@ -2,7 +2,7 @@
 git 是一个很强大的分布式版本管理工具，它不但适用于管理大型开源软件的源代码（如：linux kernel），管理私人的文档和源代码也有很多优势
 
 ## 安装
-在官方下载对应系统版本并默认安装。(下载)[https://git-scm.com/downloads]
+在官方下载对应系统版本并默认安装。[下载](https://git-scm.com/downloads)
 
 ## 常用命令
 #### 初始化命令(windows)
