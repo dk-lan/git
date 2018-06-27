@@ -13,7 +13,7 @@ git 是一个很强大的分布式版本管理工具，它不但适用于管理�
 - `ssh-keygen -t rsa -C 'email'` 一直回车直到生成 `ssh`，在目录中会生成两个文件：id_rsa和id_rsa.pub
 - `vim id_rsa.pub`，在打开的文件中复制 ssh
 ### ssh for git (mac or linux)
-(传送门)(https://github.com/dk-lan/linux/tree/master/git)
+[传送门](https://github.com/dk-lan/linux/tree/master/git)
 #### 远程仓库基本命令
 - `git clone [url]` 下载远程仓库
 - `git remote -v` 查看远程仓库
@@ -41,4 +41,4 @@ git 是一个很强大的分布式版本管理工具，它不但适用于管理�
 - `git push origin :heads/[name] 或 $ gitpush origin :[name] ` 删除远程分支
 
 ## 如果不喜欢用命令行的可以用可视化工具
-(传送门)[https://tortoisegit.org/]
+[传送门](https://tortoisegit.org/)
